@@ -22,7 +22,7 @@ I believe the most impactful products are those that solve real problems while r
 | **Computer Science** | Full-stack development, game development, web & mobile development, system architecture, data structures, algorithms |
 | **User Experience** | Human-centered design, game design, design thinking, usability testing, HCI design |
 | **AI & Machine Learning** | Natural language processing, multi-agent systems, prompt engineering, AI ethics |
-| **IT Operations** | Enterprise systems, cloud infrastructure, IT project management, DevOps |
+| **IT Operations** | Enterprise systems, cloud infrastructure, IT project management |
 
 ---
 
@@ -48,7 +48,7 @@ I believe the most impactful products are those that solve real problems while r
 
 ## 🗿 Additional Info
 
-- 🔭 I’m currently working on computational thinking, problem-solving, product design, and software engineering 
+- 🔭 I’m currently working on computational thinking, problem-solving, product design, DevOps, and software engineering practice
 - 🌱 I’m currently learning media, AI, autonomous systems, and open worlds
 - 👯 I’m looking to collaborate on super apps and video games
 - 🤔 I’m looking for help with open-source development
