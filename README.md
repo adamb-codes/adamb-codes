@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam
 
-<!--
-**adamb-codes/adamb-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning | Building | Innovating | Executing
 
-Here are some ideas to get you started:
+I'm an MBA/CS student and aspiring **Product Designer and Engineering professional** passionate about creating technology that serves people—not the other way around. My journey bridges the analytical rigor of computer science with the strategic thinking of business, grounded in real-world IT experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🌍 My North Star
+
+> *"Technology should amplify human potential, not complicate it."*
+
+I believe the most impactful products are those that solve real problems while respecting human dignity, cultural diversity, and individual agency. Whether designing AI interfaces or building business strategies, my goal is to create tools and software experiences that bring delight, make people's lives better, and make the world a little more connected.
+
+---
+
+## 🧠 What I Bring
+
+| Discipline | Skills & Focus |
+|------------|----------------|
+| **Business Strategy** | Product strategy, go-to-market planning, user research, value proposition design |
+| **Computer Science** | Full-stack development, game development, web & mobile development, system architecture, data structures, algorithms |
+| **User Experience** | Human-centered design, game design, design thinking, usability testing, HCI design |
+| **AI & Machine Learning** | Natural language processing, multi-agent systems, prompt engineering, AI ethics |
+| **IT Operations** | Enterprise systems, cloud infrastructure, IT project management, DevOps |
+
+---
+
+## 🛠️ Tools & Technologies
+
+| **Programming Languages** | Python, Java, HTML, CSS
+| **Programming Frameworks** | React
+| **Development Environments** | VS Code, Cursor, Google Colab
+| **Artificial Intelligence** | DeepSeek, ChatGPT, Claude, Gemini, Atoms
+| **Developer Resources** | Git, Github
+| **Networking Systems** | Cisco Switches & Routers, Juniper Switches & Routers
+| **Design Resources** | Figma, Balsamiq
+
+---
+
+## 👩🏻‍💻 Top Projects
+
+- 🃏 Software project ... Black Jack in Python
+- 📊 Software project ... DSA Test Program in Java
+- 🛍️ Vibe code & design project ... Kicks Jam in Python, React, and more
+
+---
+
+## 🗿 Additional Info
+
+- 🔭 I’m currently working on computational thinking, problem-solving, product design, and software engineering 
+- 🌱 I’m currently learning media, AI, autonomous systems, and open worlds
+- 👯 I’m looking to collaborate on super apps and video games
+- 🤔 I’m looking for help with open-source development
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... message
+- 😄 Pronouns: ... They/Them/Their, Ze/Hir/Hirs, Xe/Xem/Xyr
+- ⚡ Fun fact: ... none
 -->
