@@ -56,5 +56,5 @@ I believe the most impactful products are those that solve real problems while r
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... message
 - 😄 Pronouns: ... They/Them/Their, Ze/Hir/Hirs, Xe/Xem/Xyr
-- ⚡ Fun fact: ... none
+- ⚡ Fun fact: ... idk
 -->
