@@ -28,13 +28,13 @@ I believe the most impactful products are those that solve real problems while r
 
 ## 🛠️ Tools & Technologies
 
-| **Programming Languages** | Python, Java, HTML, CSS
-| **Programming Frameworks** | React
-| **Development Environments** | VS Code, Cursor, Google Colab
-| **Artificial Intelligence** | DeepSeek, ChatGPT, Claude, Gemini, Atoms
-| **Developer Resources** | Git, Github
-| **Networking Systems** | Cisco Switches & Routers, Juniper Switches & Routers
-| **Design Resources** | Figma, Balsamiq
+- **Programming Languages** | Python, Java, HTML, CSS
+- **Programming Frameworks** | React
+- **Development Environments** | VS Code, Cursor, Google Colab
+- **Artificial Intelligence** | DeepSeek, ChatGPT, Claude, Gemini, Atoms
+- **Developer Resources** | Git, Github
+- **Networking Systems** | Cisco Switches & Routers, Juniper Switches & Routers
+- **Design Resources** | Figma, Balsamiq
 
 ---
 
