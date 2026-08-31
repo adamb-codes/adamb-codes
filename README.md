@@ -42,6 +42,7 @@ I believe the most impactful products are those that solve real problems while r
 
 - 🃏 Software project ... Black Jack in Python (incoming!)
 - 📊 Software project ... DSA Test Program in Java (incoming!)
+- 📈 Software project ... Data Visualization in JavaScript, HTML, CSS, SVG, and D3 (incoming!)
 - 🛍️ Vibe code & design project ... Kicks Jam in Python, React, and more (incoming!)
 
 ---
