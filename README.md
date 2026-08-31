@@ -50,7 +50,7 @@ I believe the most impactful products are those that solve real problems while r
 ## 🗿 Additional Info
 
 - 🔭 I’m currently working on computational thinking, problem-solving, product design, DevOps, and software engineering practice
-- 🌱 I’m currently learning media, AI, autonomous systems, and open worlds
+- 🌱 I’m currently learning media, AI, semiconductor fabrication, autonomous systems, and open worlds
 - 👯 I’m looking to collaborate on super apps and video games
 - 🤔 I’m looking for help with open-source development
 - 💬 Ask me about ... anything
