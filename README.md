@@ -40,9 +40,9 @@ I believe the most impactful products are those that solve real problems while r
 
 ## 👩🏻‍💻 Top Projects
 
-- 🃏 Software project ... Black Jack in Python
-- 📊 Software project ... DSA Test Program in Java
-- 🛍️ Vibe code & design project ... Kicks Jam in Python, React, and more
+- 🃏 Software project ... Black Jack in Python (incoming!)
+- 📊 Software project ... DSA Test Program in Java (incoming!)
+- 🛍️ Vibe code & design project ... Kicks Jam in Python, React, and more (incoming!)
 
 ---
 
