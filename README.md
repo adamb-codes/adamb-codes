@@ -22,7 +22,7 @@ I believe the most impactful products are those that solve real problems while r
 | **Computer Science** | Full-stack development with AI, game development, web & mobile development, systems and network architecture, data structures, algorithms |
 | **User Experience** | Human-centered design, game design, design thinking, usability testing, HCI design |
 | **AI & Machine Learning** | Natural language processing, multi-agent systems, prompt engineering, AI ethics |
-| **IT Operations** | Enterprise systems, cloud infrastructure, IT project management, site reliability & data center management, help desk |
+| **IT Operations** | Enterprise systems, cloud infrastructure, IT project management, site reliability & data center management, cybersecurity, help desk |
 
 ---
 
