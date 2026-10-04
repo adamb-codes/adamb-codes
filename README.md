@@ -46,7 +46,8 @@ I believe the most impactful products are those that solve real problems while r
 - 🛍️ Vibe code & design project ... Kicks Jam e-commerce website in Python, React, and more (incoming!)
 - 📶 I.T. project ... Honeynet server hosted on Amazon Cloud Services (incoming!)
 - 🤖 Technology project ... Consumer devices for home and personal use (incoming!)
-- 🔬 Research project ... Product design case analysis and redesign proposals based on Atoms.dev (incoming!)
+- 🔬 Research project ... Product design case study and redesign proposals based on Atoms.dev (incoming!)
+- 🏋🏽 Research project ... Business case, product design analysis, and redesign proposals based on Freebeat Fit (incoming!)
 
 ---
 
