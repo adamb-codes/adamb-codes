@@ -44,6 +44,9 @@ I believe the most impactful products are those that solve real problems while r
 - 📊 Software project ... DSA Test Program in Java (incoming!)
 - 📈 Software project ... Data Visualization website in JavaScript, HTML, CSS, SVG, and D3 (incoming!)
 - 🛍️ Vibe code & design project ... Kicks Jam e-commerce website in Python, React, and more (incoming!)
+- 📶 I.T. project ... Honeynet server hosted on Amazon Cloud Services (incoming!)
+- 🤖 Technology project ... Consumer devices for home and personal use (incoming!)
+- 🔬 Research project ... Product design case analysis and redesign proposals based on Atoms.dev (incoming!)
 
 ---
 
